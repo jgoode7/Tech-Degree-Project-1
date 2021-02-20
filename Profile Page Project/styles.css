@@ -203,7 +203,7 @@ a.social:hover {
   }
 
 }
-h3 {color:blue;
+h3 {color:red;
   letter-spacing:1.5px}
 
 .card-title {
@@ -215,10 +215,24 @@ h3 {color:blue;
 
 .paragraph-structure {
   letter-spacing: 5px;
-
 }
 
 h4 {
   text-align: center;
+}
 
+.nb {
+  list-style-type: none;
+  }
+
+.Main-Image {
+  margin-top: 25px;
+  border: dotted; color: red; 
+}
+
+.resume-title {
+  font-family: cursive;
+}
+.section-title {
+  font-family: Copperplate;
 }
